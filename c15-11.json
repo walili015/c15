@@ -1,0 +1,17 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "",
+    "admobInterstitial": "",
+    "AdmobNative": "",
+
+    "applovinBanner": "999999banner",
+    "applovinInterstitial": "888888inter",
+    "ApplovinNative": "444444native",
+
+    "unityGameId": "",
+    "testMode": false,
+    "unityBanner": "",
+    "unityInterstitial": ""
+  }
+}
